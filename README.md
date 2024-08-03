@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @craigaatkinson
-- 👀 I’m interested in learning how to build a website to facilitate the basic operations of my company like customer info, invoicing, etc.
-- 🌱 I’m currently learning HTML, CSS, Javascript and jQuery
-- 💞️ I’m looking to collaborate on basic functional code to manage data, build forms
+- 👀 I’m working on building coding skils in GO, Python, HTMX, etc.
+- 🌱I’m working on building coding skils in GO, Python, HTMX, etc.
+- 💞️ I’m taking my time on building my skills with goal to become super efficient in two years
 - 📫 How to reach me craigaatkinson@gmail.com
 
 <!---
